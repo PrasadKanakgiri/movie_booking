@@ -71,7 +71,7 @@ Foreign keys ensure that deleting a movie or showtime automatically removes rela
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cinema-booking-system.git
+   git clone https://github.com/PrasadKanakgiri/movie_booking.git
    cd cinema-booking-system
 
 
